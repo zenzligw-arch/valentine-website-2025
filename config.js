@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://occoco.etacloud.org/api/v1/download?sig=KDWrsp2UoA0GNzbUT6s8MmtG8Lngh4zf89WFvIggkcLl5hUJ6749UoF%2BQlJhichrWUdPRme71exMG9wsyyrf%2BMNJu7FGBFpiTZJC%2FgV3ydgCGP0QsGQ0lgMGwUbGHrbPKoXInCT7nuY7H7ZcV%2BMriIigcGeo%2BGlzsTa%2F3OoVIU5tj4A0F65%2BdFLPEVT0%2FlMzHRklUFzobfnY%2Fn3RZUPqAzC39PC5QgbqOc4afmwfJDkOFns4lLqxaTHvukEBe984pz%2FFrhQQUnlMT%2BZvxxFvGMvUTRupboo6StSWeUVBSbgug96z29btfi8X6nJSsbXXtEV86%2BcaEFg9wRGUB5dzXQ%3D%3D&s=3&v=izGwDsrQ1eQ&f=mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dy15rvwfi/video/upload/v1770181618/George_Michael_-_Careless_Whisper_Official_Video_d0ecf8.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
