@@ -23,8 +23,8 @@ const CONFIG = {
     questions: {
         first: {
             text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yea",                                             // Text for "Yes" button
-            noBtn: "hell no",                                               // Text for "No" button
+            yesBtn: "Yeahh",                                             // Text for "Yes" button
+            noBtn: "Hell Naw",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you babe 💜"           // Secret hover message
         },
         second: {
@@ -44,13 +44,13 @@ const CONFIG = {
     loveMessages: {
         extreme: "Waaaaa u love me that much?? No Wayy🥰🚀💝",  // Shows when they go past 5000%
         high: "Damn really??! Take that Suhana🚀💝",              // Shows when they go past 1000%
-        normal: "Awwwww 🥰"                           // Shows when they go past 100%
+        normal: "Awwwww you´re so sweet 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "YAYYYYYY! 🎉💝💖💝💓",
-        message: "Imma wait so i can give u the biggest kiss ever",
+        message: "Can´t wait to see YOUUUUU",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
